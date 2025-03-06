@@ -22,7 +22,7 @@
 
 ### Glad to see you here!  
 I am an enthusiastic backend developer based in Costa Rica and the Philippines, with a
-wealth of experience spanning over 4 years in web development and 7 years in
+wealth of experience spanning over 5 years in web development and 7 years in
 hardware and computer networks. In the current year, 2025, I have started undertaking
 both online courses and a degree program to specialize in native app development for
 iOS and Android platforms.  
